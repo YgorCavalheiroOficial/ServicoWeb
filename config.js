@@ -15,7 +15,7 @@ if (isProduction) {
         user:'postgres',
         password:'postgres',
         host:'localhost',
-        database:'serviceweb',
+        database:'bd_serviceweb',
         port: 5432
     })
 }
